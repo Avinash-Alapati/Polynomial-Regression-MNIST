@@ -77,5 +77,4 @@ This project demonstrates how **Polynomial Regression** with **Lasso regularizat
 ├── main.py               # Main script
 ├── README.md             # Project description
 ├── requirements.txt      # Dependencies
-└── samples/              # (Optional) Add screenshots of predictions here
 
